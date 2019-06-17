@@ -12,6 +12,6 @@
 
 - Pose Flow: Efficient Online Pose Tracking (
 
-  [Code]: https://arxiv.org/abs/1802.00977
+  [Code] : https://arxiv.org/abs/1802.00977
 
   )
