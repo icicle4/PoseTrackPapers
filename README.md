@@ -14,4 +14,5 @@
 
 - Detect-and-Track: Efficient Pose Estimation in Videos(2018CVPR): [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Girdhar_Detect-and-Track_Efficient_Pose_CVPR_2018_paper.pdf) [Code](https://github.com/facebookresearch/DetectAndTrack/)
 
+- PoseTrack: Joint Multi-Person Pose Estimation and Tracking(2017CVPR) [Paper](https://arxiv.org/pdf/1611.07727.pdf) [Code](https://github.com/iqbalu/PoseTrack-CVPR2017)
 
