@@ -1,9 +1,11 @@
 # PoseTrackPapers
 
+## Datasets
+
+- PoseTrack [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Andriluka_PoseTrack_A_Benchmark_CVPR_2018_paper.pdf)
+- 
+
 ## Online Tracking method
-
-- Multi-person Articulated Tracking with Spatial and Temporal Embeddings(2019CVPR): End to end method
-
 - Simple Baselines for Human Pose Estimation and Tracking(2018ECCV): Optical Flow [Code](https://github.com/microsoft/human-pose-estimation.pytorch)
 
 - LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking [Code](https://github.com/Guanghan/lighttrack)
@@ -16,3 +18,10 @@
 
 - PoseTrack: Joint Multi-Person Pose Estimation and Tracking(2017CVPR) [Paper](https://arxiv.org/pdf/1611.07727.pdf) [Code](https://github.com/iqbalu/PoseTrack-CVPR2017)
 
+## End to End methods
+- Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World [Paper] (http://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)
+
+- Multi-person Articulated Tracking with Spatial and Temporal Embeddings(2019CVPR): End to end method
+
+## 3D pose tracking
+- Multi-person 3D Pose Estimation and Tracking in Sports [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Bridgeman_Multi-Person_3D_Pose_Estimation_and_Tracking_in_Sports_CVPRW_2019_paper.pdf)
