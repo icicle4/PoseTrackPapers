@@ -19,7 +19,7 @@
 - PoseTrack: Joint Multi-Person Pose Estimation and Tracking(2017CVPR) [Paper](https://arxiv.org/pdf/1611.07727.pdf) [Code](https://github.com/iqbalu/PoseTrack-CVPR2017)
 
 ## End to End methods
-- Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World [Paper] (http://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)
+- Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)
 
 - Multi-person Articulated Tracking with Spatial and Temporal Embeddings(2019CVPR): End to end method
 
