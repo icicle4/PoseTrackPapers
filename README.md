@@ -12,7 +12,7 @@
 
 - Pose Flow: Efficient Online Pose Tracking(2018BMVC)[Paper](https://arxiv.org/pdf/1802.00977.pdf) [Code](https://arxiv.org/abs/1802.00977)
 
--Towards Multi-Person Pose Tracking: Bottom-up and Top-down Methods [Paper]https://posetrack.net/workshops/iccv2017/pdfs/BUTD.pdf
+- Towards Multi-Person Pose Tracking: Bottom-up and Top-down Methods [Paper]https://posetrack.net/workshops/iccv2017/pdfs/BUTD.pdf
 
 ## Offline Tracking method
 
