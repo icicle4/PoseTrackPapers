@@ -14,11 +14,19 @@
 
 - Towards Multi-Person Pose Tracking: Bottom-up and Top-down Methods [Paper](https://posetrack.net/workshops/iccv2017/pdfs/BUTD.pdf)
 
-## Offline Tracking method
-
 - Detect-and-Track: Efficient Pose Estimation in Videos(2018CVPR): [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Girdhar_Detect-and-Track_Efficient_Pose_CVPR_2018_paper.pdf) [Code](https://github.com/facebookresearch/DetectAndTrack/)
 
+## Offline Tracking method
+
 - PoseTrack: Joint Multi-Person Pose Estimation and Tracking(2017CVPR) [Paper](https://arxiv.org/pdf/1611.07727.pdf) [Code](https://github.com/iqbalu/PoseTrack-CVPR2017)
+
+- Arttrack: Articulated multi-person tracking in the wild [Paper](https://arxiv.org/abs/1612.01465.pdf)
+
+- Global Pose Refinement using Bidirectional Long-Short Term Memory [Paper](https://posetrack.net/workshops/iccv2017/pdfs/MPR.pdf)
+
+- JointFlow: Temporal Flow Fields for Multi Person Pose Tracking [Paper](https://arxiv.org/abs/1805.04596)
+
+- efficient online multi-person 2d pose tracking with recurrent spatio-temporal affinity fields (CVPR 2019)
 
 ## End to End methods
 - Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)
