@@ -26,12 +26,12 @@
 
 - JointFlow: Temporal Flow Fields for Multi Person Pose Tracking [Paper](https://arxiv.org/abs/1805.04596)
 
-- efficient online multi-person 2d pose tracking with recurrent spatio-temporal affinity fields (CVPR 2019)
-
 ## End to End methods
 - Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)
 
 - Multi-person Articulated Tracking with Spatial and Temporal Embeddings(2019CVPR)[Paper](https://arxiv.org/pdf/1903.09214.pdf): End to end method
+
+- efficient online multi-person 2d pose tracking with recurrent spatio-temporal affinity fields (CVPR 2019)
 
 - Pose estimator and tracker using temporal flow maps for limbs[Paper](https://arxiv.org/pdf/1905.09500.pdf)
 
