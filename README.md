@@ -1,7 +1,7 @@
 # PoseTrackPapers
 
 ## Datasets
-- PoseTrack [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Andriluka_PoseTrack_A_Benchmark_CVPR_2018_paper.pdf)
+- PoseTrack [Paper](http://openaccess.thecvf.com/content_cvpr_2018/papers/Andriluka_PoseTrack_A_Benchmark_CVPR_2018_paper.pdf)[Address](https://posetrack.net/)
 - JTA [Code](https://github.com/fabbrimatteo/JTA-Dataset)
 
 ## 先验知识
@@ -31,11 +31,11 @@
 
 - Learning to Detect and Track Visible and Occluded Body Joints in a Virtual World [Paper](http://openaccess.thecvf.com/content_ECCV_2018/papers/Matteo_Fabbri_Learning_to_Detect_ECCV_2018_paper.pdf)
 
-- Multi-person Articulated Tracking with Spatial and Temporal Embeddings(2019CVPR)[Paper](https://arxiv.org/pdf/1903.09214.pdf): End to end method
+- Multi-person Articulated Tracking with Spatial and Temporal Embeddings(2019CVPR) [Paper](https://arxiv.org/pdf/1903.09214.pdf)
 
-- Efficient online multi-person 2d pose tracking with recurrent spatio-temporal affinity fields (CVPR 2019)[Paper](https://arxiv.org/pdf/1811.11975.pdf)
+- Efficient online multi-person 2d pose tracking with recurrent spatio-temporal affinity fields (CVPR 2019) [Paper](https://arxiv.org/pdf/1811.11975.pdf) [Code](https://github.com/soulslicer/openpose)
 
-- Pose estimator and tracker using temporal flow maps for limbs[Paper](https://arxiv.org/pdf/1905.09500.pdf)
+- Pose estimator and tracker using temporal flow maps for limbs [Paper](https://arxiv.org/pdf/1905.09500.pdf)
 
 ## 3D pose tracking
 - Multi-person 3D Pose Estimation and Tracking in Sports [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Bridgeman_Multi-Person_3D_Pose_Estimation_and_Tracking_in_Sports_CVPRW_2019_paper.pdf)
