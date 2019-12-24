@@ -22,6 +22,8 @@
 
 - LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking [Paper](https://arxiv.org/pdf/1905.02822.pdf) [Code](https://github.com/Guanghan/lighttrack)
 
+- 15 Keypoints Is All You Need (2019)[Paper](https://arxiv.org/abs/1912.02323) 
+
 
 ## 时空关系
 
@@ -39,3 +41,8 @@
 
 ## 3D pose tracking
 - Multi-person 3D Pose Estimation and Tracking in Sports [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Bridgeman_Multi-Person_3D_Pose_Estimation_and_Tracking_in_Sports_CVPRW_2019_paper.pdf)
+
+## Other
+
+-Movement science needs different pose tracking algorithms [Paper](https://arxiv.org/pdf/1907.10226.pdf)
+
