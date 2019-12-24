@@ -44,5 +44,5 @@
 
 ## Other
 
--Movement science needs different pose tracking algorithms [Paper](https://arxiv.org/pdf/1907.10226.pdf)
+- Movement science needs different pose tracking algorithms [Paper](https://arxiv.org/pdf/1907.10226.pdf)
 
