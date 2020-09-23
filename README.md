@@ -20,7 +20,7 @@
 ## ReID method
 - FastPose: Towards Real-time Pose Estimation and Tracking via Scale-normalized Multi-task Networks [Paper](https://arxiv.org/pdf/1908.05593.pdf)
 
-- LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking [Paper](https://arxiv.org/pdf/1905.02822.pdf) [Code](https://github.com/Guanghan/lighttrack)
+- LightTrack: A Generic Framework for Online Top-Down Human Pose Tracking(CVPR2020)  [Paper](https://arxiv.org/pdf/1905.02822.pdf) [Code](https://github.com/Guanghan/lighttrack)
 
 - 15 Keypoints Is All You Need (2019)[Paper](https://arxiv.org/abs/1912.02323) 
 
