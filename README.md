@@ -39,6 +39,9 @@
 
 - Pose estimator and tracker using temporal flow maps for limbs [Paper](https://arxiv.org/pdf/1905.09500.pdf)
 
+## 万能的热力图
+- Combining detection and tracking for human pose estimation in videos[Paper](https://arxiv.org/pdf/2003.13743.pdf)
+
 ## 3D pose tracking
 - Multi-person 3D Pose Estimation and Tracking in Sports [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Bridgeman_Multi-Person_3D_Pose_Estimation_and_Tracking_in_Sports_CVPRW_2019_paper.pdf)
 
