@@ -44,6 +44,7 @@
 
 ## 3D pose tracking
 - Multi-person 3D Pose Estimation and Tracking in Sports [Paper](http://openaccess.thecvf.com/content_CVPRW_2019/papers/CVSports/Bridgeman_Multi-Person_3D_Pose_Estimation_and_Tracking_in_Sports_CVPRW_2019_paper.pdf)
+- Cross-View Tracking for Multi-Human 3D Pose Estimation at over 100 FPS [Paper](https://openaccess.thecvf.com/content_CVPR_2020/papers/Chen_Cross-View_Tracking_for_Multi-Human_3D_Pose_Estimation_at_Over_100_CVPR_2020_paper.pdf)
 
 ## Other
 
